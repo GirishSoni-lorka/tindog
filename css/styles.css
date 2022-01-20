@@ -149,6 +149,45 @@ p {
 /* Media Quaries  */
 
 @media (max-width: 992px) {
+    .big-heading {
+        font-size: 6.5rem;
+    }
+    h2 {
+       font-size: 4rem;
+    }
+    h3 {
+        font-size: 2.5rem;
+    }
+    p, a, i, em {
+        font-size: 30px;
+    }
+    .nav-link {
+        font-size: 2.5rem;
+    }
+    .testimonial-img {
+        width: 120px;
+    }
+    .navbar-brand {
+        font-size: 3.75rem;
+    }
+    .navbar-toggler {
+        font-size: xxx-large;
+    }
+    .testimonial-text {
+        font-size: 3.6rem;
+    }
+    .cta-heading {
+        font-size: 5rem;
+    }
+    .download-button {
+        font-size: 2.5rem;
+    }
+    .download-button i {
+        font-size: 2.5rem;
+    }
+    .m-btn {
+        font-size: 2rem;
+    }
     #title {
         text-align: center;
     }
